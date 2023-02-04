@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #bdbdbd;
+}
+main{
+    margin: 10px;
+    background-color: #dcdcdc;
+    height: 100%;
+    border-radius: 7px;
+}
+h1{
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+.title{
+    margin-bottom: 20px;
+}
+.img-nikola{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.img-nikola img{
+    border-radius: 10px;
+    box-shadow: 0 0 30px 0 black;
+}
+.text{
+    text-align: center;
+    margin: 10px;
+}
+.text p{
+    margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
